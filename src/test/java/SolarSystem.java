@@ -10,6 +10,14 @@ public class SolarSystem {
         bb.Sun = "1";
 
         System.out.println("solar system is ready");
+
+
+        FeatureSun sun = new FeatureSun();
+
+        sun.Color = "Yellow";
+        sun.temperature = "5500K";
+        sun.Radius = "695,700 km";
+
     }
 
 }
