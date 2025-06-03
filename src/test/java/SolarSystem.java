@@ -18,6 +18,12 @@ public class SolarSystem {
         sun.temperature = "5500K";
         sun.Radius = "695,700 km";
 
+
+        Planet1 planet1 = new Planet1();
+
+        planet1.color = "Blue";
+        planet1.size = "Medium";
+
     }
 
 }
