@@ -18,6 +18,13 @@ public class SolarSystem {
         sun.temperature = "5500K";
         sun.Radius = "695,700 km";
 
+
+        Planet2 planet2 = new Planet2();
+
+        planet2.name = "FlipFlop";
+        planet2.color = "Blue";
+        planet2.size = "12,742 km";
+
     }
 
 }
