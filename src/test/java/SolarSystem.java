@@ -19,10 +19,17 @@ public class SolarSystem {
         sun.Radius = "695,700 km";
 
 
+
         Planet1 planet1 = new Planet1();
 
         planet1.color = "Blue";
         planet1.size = "Medium";
+
+        Planet2 planet2 = new Planet2();
+
+        planet2.name = "FlipFlop";
+        planet2.color = "Blue";
+        planet2.size = "12,742 km";
 
     }
 
